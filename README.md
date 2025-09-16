@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahazizyapar&" alt="beytullahazizyapar" /></p>
 
-![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BeytullahAzizYAPAR/BeytullahAzizYAPAR/blob/output/github-contribution-grid-snake.gif)
